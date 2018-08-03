@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RPiApp</string>
+    <string name="action_settings">Settings</string>
+</resources>

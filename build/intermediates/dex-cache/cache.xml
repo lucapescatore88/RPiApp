@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/65d2597386d7c73225165c86f6ab07642b2e8ee8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_99165c27ebcae2ef996d435a8d22ed6fb62e13bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/16f7472f1cf452667dfbc11d46872acdf99d99e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_95be1c5e404f220d292e70e4494ef75b0630312b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/f5995307e59940a4040aea29708e1beef427736b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_222583abef3ba5cfb605148e4c627decd595a318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/4f122a258da3a78861ef9893abfdb8583da5ad68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_b0223e483fb2353f8c2f4ff7b2d5514f75c2006b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/7bcbe60a8adf9b19023b43a589159ad29b4bd92e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_0e78c98b74220dccdfc3582eec16e2c636becaa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/10f3fbd495817cf8defc10fe13bb3a821dd389f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_263b9f5cb9c081558004fb854e37ef9d21120165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/27729781aa5b673f29603f4fa4406b79a3b84c2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_95364b4190379f6a41f713c9dc7a735907adc611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/2ef488dafc9eb2e8927bc8bacd6b5ff9e1f87263/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_65b45393903cb561e49e12fe2e3318e761ce2ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_f55926729fdecf9c11a48f11de0f0cfeaa6b1ad5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8a1bb47204448cce3a8b8cccd1d93ce4d46d98d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/28a5f9f18131ce4170f4a0842187eef05ad610f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_ec48cf9ff7be871d34a0492379a36baf8230f7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/62aa5f62364f60b499d68ced6d1cd5f80a2278cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_f025501c12c2aa6cde0d4bf4b452e394822e8b63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/629a8857f85c43e37de3ba73d6e217a0285a38df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_3ae205ee2675aa3c38e976ffcf393ee6156f93d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/22c9be1f1662098d1a80f26baa5eb118e0f7603d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_f5cc3cf4df915e7131acfd6a00316b29ad5b1d76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c462896d44b249b145aa664e8d75422c5a24ca51">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_58b612f01338214b654559e14710b1c09c0c7702/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/d9150ead6411c146f0f21ccae26a0c015944cdce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_e7b97568f409384ed5bab42b68ccbf44d6e012dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/150f286778ca720a1dbd653eb8d9fc70f2806eb2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_814591233cc8673040394e84bdb6dc43222f6424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pluca/.android/build-cache/94e91e3c914a6b0e21e1aef4908cb2a30c59a676/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/pluca/Programming/Android/RPiApp/app/build/intermediates/pre-dexed/debug/classes_724815e42bcf3fea29afea3fadcb5be04f62b89a.jar" />
+    </item>
+
+</items>

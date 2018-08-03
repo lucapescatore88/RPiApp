@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_switch_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainBkg"
+    android:gravity="center"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.pluca.rpiapp.CameraActivity"
+    android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/cameraon_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:src="@drawable/off"
+            />
+
+        <TextView
+            android:text="Choose effect!"
+            android:id="@+id/main_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="35dp"
+            android:gravity="center"
+            android:background="@color/mainBkg"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            />
+
+        <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/listview_effects"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            />
+
+        <Button
+            android:text="Capture picture"
+            android:id="@+id/capture_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:background="@color/Button"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/listview_effects"
+            />
+
+</LinearLayout>
